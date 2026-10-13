@@ -5,9 +5,6 @@ ActivityPattern labels where the coding guide's **stopped** category competes wi
 used in MiniProject2 (whose README list did not include "stopped"), and two RecentThemes pairs that hinge on
 how to classify Dependabot commits and example/tutorial files.
 
-Fill in the **Resolution** and **Time to resolve** lines during the discussion; the times feed
-`MeanResolutionTime_min` in Part 3.
-
 ## Example 1 — [isl-org/MiDaS](https://github.com/isl-org/MiDaS) (ActivityPattern)
 
 **Author:** irregular (`tgarrio1`)  
