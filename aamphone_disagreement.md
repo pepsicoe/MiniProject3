@@ -1,8 +1,6 @@
 # Disagreement Examples — aamphone & tgarrio1
 
-Validator: `aamphone` (Aidan Amphonephong) · Project owner: `tgarrio1` (Tyler Garriott)
-
-Before discussion, 45 of 50 records agreed. The five disagreements fall into two groups: three
+45 of 50 records agreed. The five disagreements fall into two groups: three
 ActivityPattern labels where the coding guide's **stopped** category competes with the trajectory label
 used in MiniProject2 (whose README list did not include "stopped"), and two RecentThemes pairs that hinge on
 how to classify Dependabot commits and example/tutorial files.
